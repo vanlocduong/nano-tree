@@ -1,0 +1,12 @@
+link heroku client: https://sport-shop-client-01.herokuapp.com/
+link heroku admin: https://sport-shop-01.herokuapp.com/
+link heroku backend: https://api-sportshop.herokuapp.com/
+
+link git client: https://github.com/minhbaovn1210/BQQSportShop
+link git admin: https://github.com/minhbaovn1210/SportShopBQQFrontend
+link git backend: https://github.com/minhbaovn1210/SportShopBQQBackend
+
+link video: https://drive.google.com/file/d/1Peg5qYSHU1JxQRkb7uH9k7uJhReCAVze/view
+
+
+https://sharecode.vn/source-code/web-shop-reactjs-phan-chia-front-backend-21938.htm#Download
